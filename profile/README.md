@@ -1,4 +1,4 @@
-<img src="xenux-splash.jpg"/>
+<img src="../xenux-splash.jpg"/>
 <h2>Xenux <em>(noun)</em></h2>
 
 <p>Definition: A theoretical framework proposing that light propagates through space-time in dimensions exceeding the conventional three spatial dimensions. In the context of Xenux theory, light is postulated to traverse additional dimensions beyond the familiar dimensions of length, width, and height. This concept challenges traditional understandings of light propagation and suggests a more intricate nature of its movement through the fabric of the universe.</p>
